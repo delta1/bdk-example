@@ -1,6 +1,6 @@
 ## BDK example with Esplora API
 
-This is a basic example of using the [BDK]() crate with the Blockstream Esplora REST API.
+This is a basic example of using the [BDK](https://github.com/bitcoindevkit/bdk#the-bitcoin-dev-kit) crate with the Blockstream Esplora REST API.
 
 You'll need a recent version of Rust/Cargo, then just: `cargo run`
 
